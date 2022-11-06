@@ -1,0 +1,2 @@
+What is Git?
+Git is open-source version control software, used for managing and tracking file revisions. You can use Git with any file type, but it’s most often used for tracking code files.
